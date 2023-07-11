@@ -20,18 +20,13 @@ METHODOLOGY
 CODE SNIPPETS
 
 ![image](https://github.com/poorviraddi03/Selection-Sort-in-Assembly-Code/assets/139233939/a764ca93-0690-47f6-be99-039c8c09dbcc)
+
 Define elements of an array
-
 Main module
-
 Loading base address of the array
-
 Initializing i as 0
-
 Loop for i
-
 set min_id as i
-
 set j= i+1
 
 ![image](https://github.com/poorviraddi03/Selection-Sort-in-Assembly-Code/assets/139233939/d6e3248b-fcba-4119-b1a2-e879745d14fe)
